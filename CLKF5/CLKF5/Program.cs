@@ -32,6 +32,8 @@ namespace CLKF5
 
             string[] nichiText = File.ReadAllLines(@"C:\Users\Developer\Documents\Visual Studio 2013\Projects\CLKF\GitExercise\GitExercise5.CouchProg\CLKF5\CLKF5\bin\Debug\CouchProg.txt");
             
+            Console.WriteLine(nichiText.ToString());
+            
             Console.ReadLine();
         }
 
