@@ -1,0 +1,6 @@
+C:\Users\Developer\Documents\Visual Studio 2013\Projects\CLKF\GitExercise\GitExercise5.CouchProg\CLKF5\CLKF5\bin\Debug\CLKF5.exe.config
+C:\Users\Developer\Documents\Visual Studio 2013\Projects\CLKF\GitExercise\GitExercise5.CouchProg\CLKF5\CLKF5\obj\Debug\CLKF5.csprojResolveAssemblyReference.cache
+C:\Users\Developer\Documents\Visual Studio 2013\Projects\CLKF\GitExercise\GitExercise5.CouchProg\CLKF5\CLKF5\bin\Debug\CLKF5.exe
+C:\Users\Developer\Documents\Visual Studio 2013\Projects\CLKF\GitExercise\GitExercise5.CouchProg\CLKF5\CLKF5\bin\Debug\CLKF5.pdb
+C:\Users\Developer\Documents\Visual Studio 2013\Projects\CLKF\GitExercise\GitExercise5.CouchProg\CLKF5\CLKF5\obj\Debug\CLKF5.exe
+C:\Users\Developer\Documents\Visual Studio 2013\Projects\CLKF\GitExercise\GitExercise5.CouchProg\CLKF5\CLKF5\obj\Debug\CLKF5.pdb
